@@ -57,7 +57,7 @@
 [SpaceRock](https://spacerock.devjdeed.workers.dev/) - Free 3D Plinko Game - Vite / React / Typescript / R3F
 
 
-<h3>Coding Soundtracks — GTA Vice City Radio</h3>
+<h3> 🎵 Coding Soundtracks — GTA Vice City Radio</h3>
 <div align="center">
 
 [![Fever 105](https://img.youtube.com/vi/Ja43zQKAS0U/0.jpg)](https://www.youtube.com/watch?v=Ja43zQKAS0U)
@@ -65,7 +65,9 @@
 [![Emotion 98.3](https://img.youtube.com/vi/9lrKRc1Z7Uc/0.jpg)](https://www.youtube.com/watch?v=9lrKRc1Z7Uc)
 [![Wave 103](https://img.youtube.com/vi/l2X-rPNc4fM/0.jpg)](https://www.youtube.com/watch?v=l2X-rPNc4fM)
 [![Radio Espantoso](https://img.youtube.com/vi/BHlNSvr6DTA/0.jpg)](https://www.youtube.com/watch?v=BHlNSvr6DTA)
+[![Wildstyle Pirate Radio](https://img.youtube.com/vi/7RJVoCcBAys/0.jpg)](https://www.youtube.com/watch?v=7RJVoCcBAys)
+ 
 
-*Fever 105 • Flash FM • Emotion 98.3 • Wave 103 • Radio Espantoso*
+*Fever 105 • Flash FM • Emotion 98.3 • Wave 103 • Radio Espantoso • Wildstyle Pirate Radio*
 
 </div>
