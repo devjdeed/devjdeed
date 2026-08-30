@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" height="28"/>
   <img src="./Zustand.svg" alt="Zustand" width="40"/>
   <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logoColor=white" alt="Zustand" height="28"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" height="28"/>
 </div>
 
 <h3> Backend & Data </h3>
@@ -41,7 +42,6 @@
   
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" height="28"/>
   <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" height="28"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" height="28"/>
 </div>
 
 <h3> Blockchain </h3> 
@@ -52,6 +52,6 @@
 <img src="https://img.shields.io/badge/Viem-1C1C1C?style=for-the-badge&logoColor=white" alt="Viem" height="28"/>
 </div>
 
-<h3>Creative Side Quests</h3>
+<h3>Side Quests</h3>
 
-- [SpaceRock](https://spacerock.devjdeed.workers.dev/) - Free 3D Plinko Game - Vite / React / Typescript / R3F
+[SpaceRock](https://spacerock.devjdeed.workers.dev/) - Free 3D Plinko Game - Vite / React / Typescript / R3F
