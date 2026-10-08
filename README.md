@@ -1,7 +1,7 @@
 <h3 align="center">  Toronto - Montreal ᴄᴀ  📍 </h3>
 
 <h1 align="center"> Hi, I'm Ibrahim. <img src="https://github.com/Ibby-debug/Ibby-debug/blob/master/Hi.gif" width="25"></h2>
-<h3 align="center"> Focused on scaling web apps and pushing performance across web, mobile & desktop </h3> 
+<h3 align="center"> Focused on scaling and optimizing apps performance across web, mobile & desktop </h3> 
 <div align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" height="28"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" height="28"/>
