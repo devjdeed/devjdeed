@@ -1,28 +1,23 @@
-<h3 align="center">  Toronto - Montreal ᴄᴀ  📍 </h3>
-
 <h1 align="center"> Hi, I'm Ibrahim. <img src="https://github.com/Ibby-debug/Ibby-debug/blob/master/Hi.gif" width="25"></h2>
-<h3 align="center"> Focused on scaling and optimizing apps performance across web, mobile & desktop </h3> 
-<div align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" height="28"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" height="28"/>
-</div>
-<br/>
+<h3 align="center">  Toronto - Montreal ᴄᴀ  📍 </h3>
+<h3 align="center"> Scaling and Optimizing Apps </h3> 
 
-<h3> My Skills </h3> 
-<div style="display: flex; flex-direction: row; gap: 16px; align-items: center;">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" height="28"/>
+<div align="center">
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" height="28"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" height="28"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" height="28"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="28"/>
 </div>
+<br/>
 
 <h3>Hobby Projects</h3>
 
-[SpaceRock](https://spacerock.devjdeed.workers.dev/) - 3D Plinko Game
+[Space Rock](https://spacerock.devjdeed.workers.dev/) - 3D Plinko Game
 
-[MagicStencils](https://magicstencils.devjdeed.workers.dev/) - Purchase Custom Muti Layered Stencils
+[Magic Stencils](https://magicstencils.devjdeed.workers.dev/) - Custom Muti Layered Stencils Marketplace
 
 
-<h3> 🎵 Coding Soundtracks — GTA Vice City Radio</h3>
+<h3 align="center"> 🎵🎵🎵🎵 </h3>
 <div align="center">
 
 [![Fever 105](https://img.youtube.com/vi/Ja43zQKAS0U/0.jpg)](https://www.youtube.com/watch?v=Ja43zQKAS0U)
